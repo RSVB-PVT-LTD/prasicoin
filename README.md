@@ -1,9 +1,9 @@
 Prasicoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+[![Build Status](https://travis-ci.org/prasicoin-project/prasicoin.svg?branch=master)](https://travis-ci.org/prasicoin-project/prasicoin)
 
-https://litecoin.org
+https://prasicoin.org
 
 What is Prasicoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Prasicoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Prasicoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Prasicoin Core software, see [https://prasicoin.org](https://prasicoin.org).
 
 License
 -------
@@ -27,17 +27,17 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
+completely stable. [Tags](https://github.com/prasicoin-project/prasicoin/tags) are created
 regularly to indicate new official, stable release versions of Prasicoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/prasicoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+Developer IRC can be found on Freenode at #prasicoin-dev.
 
 Testing
 -------

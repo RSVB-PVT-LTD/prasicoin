@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Prasicoin"
-#define QAPP_ORG_DOMAIN "litecoin.org"
+#define QAPP_ORG_DOMAIN "prasicoin.org"
 #define QAPP_APP_NAME_DEFAULT "Prasicoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Prasicoin-Qt-testnet"
 #define QAPP_APP_NAME_REGTEST "Prasicoin-Qt-regtest"

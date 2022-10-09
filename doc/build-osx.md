@@ -43,8 +43,8 @@ Build Prasicoin Core
 
 1. Clone the Prasicoin Core source code:
 
-        git clone https://github.com/litecoin-project/litecoin
-        cd litecoin
+        git clone https://github.com/prasicoin-project/prasicoin
+        cd prasicoin
 
 2.  Build Prasicoin Core:
 
@@ -70,9 +70,9 @@ Build Prasicoin Core
 
     or
 
-        cd ~/litecoin/src
-        cp litecoind /usr/local/bin/
-        cp litecoin-cli /usr/local/bin/
+        cd ~/prasicoin/src
+        cp prasicoind /usr/local/bin/
+        cp prasicoin-cli /usr/local/bin/
 
 Disable-wallet mode
 --------------------
@@ -88,17 +88,17 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Prasicoin Core is now available at `./src/litecoind`
+Prasicoin Core is now available at `./src/prasicoind`
 
 Before running, you may create an empty configuration file:
 
     mkdir -p "/Users/${USER}/Library/Application Support/Prasicoin"
 
-    touch "/Users/${USER}/Library/Application Support/Prasicoin/litecoin.conf"
+    touch "/Users/${USER}/Library/Application Support/Prasicoin/prasicoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Prasicoin/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Prasicoin/prasicoin.conf"
 
-The first time you run litecoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
+The first time you run prasicoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
@@ -107,9 +107,9 @@ You can monitor the download process by looking at the debug.log file:
 Other commands:
 -------
 
-    ./src/litecoind -daemon # Starts the litecoin daemon.
-    ./src/litecoin-cli --help # Outputs a list of command-line options.
-    ./src/litecoin-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/prasicoind -daemon # Starts the prasicoin daemon.
+    ./src/prasicoin-cli --help # Outputs a list of command-line options.
+    ./src/prasicoin-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Notes
 -----
