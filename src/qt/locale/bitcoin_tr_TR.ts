@@ -66,12 +66,12 @@
         <translation>Alınan Adresler</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme göndermek için gereken Litecoin adreslerinizdir. Para göndermeden önce her zaman miktarı ve alıcı adresi kontrol edin.</translation>
+        <source>These are your Prasicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme göndermek için gereken Prasicoin adreslerinizdir. Para göndermeden önce her zaman miktarı ve alıcı adresi kontrol edin.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödeme almak için kullanılacak Litecoin adreslerinizdir. Her işlem için yeni bir ödeme alma adresi kullanılması tavsiye edilir.</translation>
+        <source>These are your Prasicoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödeme almak için kullanılacak Prasicoin adreslerinizdir. Her işlem için yeni bir ödeme alma adresi kullanılması tavsiye edilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -286,8 +286,8 @@
         <translation>Bloklar disk üzerinde yeniden indeksleniyor...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Litecoin adresine madeni para gönderin</translation>
+        <source>Send coins to a Prasicoin address</source>
+        <translation>Prasicoin adresine madeni para gönderin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -302,8 +302,8 @@
         <translation>Onay mesajı...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin
+        <source>Prasicoin</source>
+        <translation>Prasicoin
 </translation>
     </message>
     <message>
@@ -458,8 +458,8 @@
         <translation>Gönderim adresini düzenleyin</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Girilen adres "%1" Litecoin adresiyle eşleşmiyor.</translation>
+        <source>The entered address "%1" is not a valid Prasicoin address.</source>
+        <translation>Girilen adres "%1" Prasicoin adresiyle eşleşmiyor.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
@@ -495,8 +495,8 @@
         <translation>Hoş geldiniz</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin
+        <source>Prasicoin</source>
+        <translation>Prasicoin
 </translation>
     </message>
     <message>
@@ -628,7 +628,7 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Prasicoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Gösterilen bilgi geçerli olmayabilir. Bağlantı tekrar sağlandıktan sonra cüzdanınız otomatik olarak senkronize olacaktır. Henüz senkronize olma işlemi tamamlanmadı.</translation>
     </message>
     <message>
@@ -709,8 +709,8 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Litecoin adresinizi girin (örneğin %1)</translation>
+        <source>Enter a Prasicoin address (e.g. %1)</source>
+        <translation>Prasicoin adresinizi girin (örneğin %1)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1094,8 +1094,8 @@
         <translation>Coin gönderimini onaylayın</translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Uyarı: Hatalı Litecoin adresi</translation>
+        <source>Warning: Invalid Prasicoin address</source>
+        <translation>Uyarı: Hatalı Prasicoin adresi</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1390,8 +1390,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Çekirdeği</translation>
+        <source>Prasicoin Core</source>
+        <translation>Prasicoin Çekirdeği</translation>
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
