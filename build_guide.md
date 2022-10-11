@@ -12,3 +12,6 @@ sudo apt-get install build-essential libtool autotools-dev automake pkg-config b
   179  make
   180  make install
   181  sudo make install
+
+To run wallet:
+prasicoin-qt
