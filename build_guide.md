@@ -10,8 +10,10 @@ sudo apt-get install build-essential libtool autotools-dev automake pkg-config b
   ./autogen.sh 
   178  ./configure BDB_LIBS="-L${BDB_PREFIX}/lib -ldb_cxx-4.8" BDB_CFLAGS="-I${BDB_PREFIX}/include"
   179  make
-  180  make install
   181  sudo make install
 
 To run wallet:
 prasicoin-qt
+
+To add DNS Seed:
+Uncommend and add your dns seed        // vSeeds.emplace_back("dnsseed.litecoinpool.org");
