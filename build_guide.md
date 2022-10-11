@@ -17,3 +17,6 @@ prasicoin-qt
 
 To add DNS Seed:
 Uncommend and add your dns seed        // vSeeds.emplace_back("dnsseed.litecoinpool.org");
+
+To Mine
+prasicoin-cli generatetoaddress 1 $(prasicoin-cli getnewaddress)
